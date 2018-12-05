@@ -16,6 +16,7 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.println("esto es una prueba para mirar que tal");
+        System.out.println("hago  una modificacion para ver el cambio");
     }
     
 }
